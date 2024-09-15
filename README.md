@@ -4,4 +4,4 @@
 
 2. Read and tryout the codes in "Pytorch basics.pdf". 
 
-3. Try to finish the example problem provided in the folder "Recurrent Neural Operator example". Use the provided skeleton code and data set. 
+3. Try to finish the example problem provided in the folder "Neural Operator example". Use the provided skeleton code and data set. 
