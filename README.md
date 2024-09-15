@@ -2,6 +2,6 @@
 
 1. You are asked to install Pytorch following the instruction provided in the "Pytorch Installatoin.pdf".
 
-2. **Optional**: If you are not familiar with Pytorch or the basics of machine learning, first read the 
+2. Read and tryout the codes in "Pytorch basics.pdf". 
 
-3. Optional: If you are not familiar with the machine learning basics, finish the 
+3. Try to finish the example problem provided in the folder "Recurrent Neural Operator example". Use the provided skeleton code and data set. 
